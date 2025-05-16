@@ -10,6 +10,9 @@ s1 = s.upper()
 s2 = s.capitalize()
 s3 = s.title()
 s4 = s.lower()
-
+text = "hello world"
+print(text.find("world"))  # Output: 6
 print('Your name is:',s1,s2,s3,s4)
+
+
 
