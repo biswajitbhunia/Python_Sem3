@@ -9,5 +9,7 @@ s = input('Enter your name')
 s1 = s.upper()  
 s2 = s.capitalize()
 s3 = s.title()
-print('Your name is:',s1,s2,s3)
+s4 = s.lower()
+
+print('Your name is:',s1,s2,s3,s4)
 
