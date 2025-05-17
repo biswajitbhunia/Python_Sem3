@@ -14,3 +14,4 @@ print('*'*30)
 s = 'I am fine'
 print('The given string is: ',s)
 print('The converted string into list is : ', s.split())
+
