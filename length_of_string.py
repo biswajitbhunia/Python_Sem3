@@ -7,6 +7,11 @@ Created on Fri May 16 06:32:15 2025
 
 s='hello world'
 l = len(s)
+
+print('length:',l)
+
+
+
 print(f'Length or no. of characters in s: {l}')
 
 s = input("Enter your name :")
